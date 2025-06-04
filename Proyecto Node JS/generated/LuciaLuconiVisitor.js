@@ -1,4 +1,4 @@
-// Generated from c:/Users/lucil/Desktop/ANALIZADOR_LuciaLuconi - copia/LuciaLuconi.g4 by ANTLR 4.13.2
+// Generated from c:/Users/lucil/Desktop/Analizador-Luconi/Analizador-Luconi/Proyecto Node JS/LuciaLuconi.g4 by ANTLR 4.13.2
 // jshint ignore: start
 import antlr4 from 'antlr4';
 
