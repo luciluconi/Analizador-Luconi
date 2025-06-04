@@ -1,0 +1,10 @@
+configuración Casa {
+  sección WiFi {
+    ssid = '''RedCasa123''';
+    password = '''supersecreto''';
+  }
+  sección Impresora {
+    modelo = '''HP LaserJet''';
+    puerto = 3;
+  }
+}

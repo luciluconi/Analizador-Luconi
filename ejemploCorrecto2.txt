@@ -1,0 +1,10 @@
+configuración SmartHome {
+  sección Seguridad {
+    alarma = '''Activa''';
+    camaras = 4;
+  }
+  sección Clima {
+    termostato = '''Nest V3''';
+    temperatura = 22;
+  }
+}

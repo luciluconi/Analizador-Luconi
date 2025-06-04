@@ -1,0 +1,4 @@
+configuración MiDispositivo {
+  sección Red {
+    ssid = '''MiRedWiFi'''
+  }
